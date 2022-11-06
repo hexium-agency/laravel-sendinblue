@@ -1,5 +1,5 @@
 {
-    "name": "webup/laravel-sendinblue",
+    "name": "hexium/laravel-sendinblue",
     "description": "Laravel's mail transport for SendinBlue",
     "keywords": ["laravel", "laravel5", "laravel7", "laravel8", "lumen", "sendinblue", "stmp", "mailing"],
     "license": "MIT",
@@ -8,6 +8,12 @@
             "name": "Baptiste Ducatel",
             "email": "baptiste@agence-webup.com",
             "homepage": "http://agence-webup.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Gaël Weiler",
+            "email": "gael.weiler@proton.me",
+            "homepage": "http://hexium.com",
             "role": "Developer"
         }
     ],
